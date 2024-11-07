@@ -1,0 +1,20 @@
+09:49:07.213 info extension stopping host
+09:49:07.616 info host ------------ starting ------------
+09:49:07.789 info extension host process output: port:[51331]
+09:49:07.789 info extension 
+09:49:07.954 info host worker Starting Host Worker...
+09:49:08.062 info host client connected: extension { address: '127.0.0.1', family: 'IPv4', port: 51331 }
+09:49:08.098 info host starting host: {"extensionFolder":"c:\\Users\\Club House\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.366","runtimeHookFile":"c:\\Users\\Club House\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.366\\out\\runtimeHook\\tracer.js","globalErrorHandlerFile":"c:\\Users\\Club House\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.366\\out\\runtimeHook\\errorHandler.js","networkLoggingHandlerFile":"c:\\Users\\Club House\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.366\\out\\runtimeHook\\networkLoggingHandler.js","filesToInstrument":[],"debug":false,"config":{"dateTimeFormat":"HH:mm:ss.SSS","dateTimeDisplayMode":"Absolute","installBinToPath":true,"openLinksInEditor":true,"maxLogViewerEntries":15000,"showWelcomeMessageInTools":true,"fontSize":10,"outputMode":"Beside File","captureFunctions":false,"searchUrl":"https://www.google.com/search?q={query}","enableProFeatures":true,"toolsToAutoPatch":["vite","angular","jest","webpack","next.js","nest.js","cypress","http-server","serve","live-server","nuxt","remix","qwik","hydrogen","serverless","astro"],"showErrors":true,"showLogsOnlyFromOpenedFiles":false,"showLogsFromLogPointsOnly":false,"showLogsFromMultipleRunningToolsTogether":false,"predictiveLoggingEnabled":true,"allowConsoleLogToTriggerPredictions":false,"showNetworkRequests":true},"allowedHosts":["localhost","127.0.0.1","example.cypress.io","DESKTOP-EEVOSPH","192.168.51.129"],"host":"127.0.0.1","forcedStart":false,"startTime":1730915347222}
+09:49:08.128 info host starting tools discovery and integration
+09:49:08.129 info host creating C:\Users\Club House\.console-ninja\.bin
+09:49:08.133 info host installing C:\Users\Club House\.console-ninja\.bin\loader.js
+09:49:08.139 info host installing C:\Users\Club House\.console-ninja\.bin\console-ninja.ps1
+09:49:08.140 info host installing C:\Users\Club House\.console-ninja\.bin\console-ninja.cmd
+09:49:08.141 info host installing PATH C:\Users\Club House\.console-ninja\.bin
+09:49:09.921 info host looking for tools to patch
+09:49:09.940 info host found 0 tool file(s) to patch
+09:49:09.950 info host completed tools discovery and integration
+12:12:28.231 info extension stopping host
+12:12:28.253 info host removing cache folder: 92e3a8818e00578d3a48ee05d91ca436
+12:12:29.064 info extension client disconnected: 1006 
+09:32:34.859 info extension stopping host
